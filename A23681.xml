@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The desire of all men a sermon preach'd at Daventry in Northamptonshire, March 5, 1694/5, (being the day of the interment of our late Most Gracious Queen), before the bayliff and burgesses of the said corporation of Daventry and other gentlemen of the country, and published at their request / by Charles Allestree ...</title>
+            <author>Allestree, Charles, 1653 or 4-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23681</idno>
+            <idno type="STC">Wing A1080</idno>
+            <idno type="STC">ESTC R8239</idno>
+            <idno type="EEBO-CITATION">12381345</idno>
+            <idno type="OCLC">ocm 12381345</idno>
+            <idno type="VID">60764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60764)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 267:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The desire of all men a sermon preach'd at Daventry in Northamptonshire, March 5, 1694/5, (being the day of the interment of our late Most Gracious Queen), before the bayliff and burgesses of the said corporation of Daventry and other gentlemen of the country, and published at their request / by Charles Allestree ...</title>
+                  <author>Allestree, Charles, 1653 or 4-1707.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bennet ... and Obediah Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694/5 [i.e. 1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within mourning border.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Sermons.</term>
+               <term>Bible. --  O.T. --  Numbers XXIII, 10 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60764:1"/>
+            <pb facs="tcp:60764:1"/>
+            <p>
+               <hi>The Deſire of all Men.</hi>
+            </p>
+            <p>A SERMON Preach'd at DAVENTRY IN <hi>Northamptonſhire, March</hi> 5. 1694/5.</p>
+            <p>(Being the Day of the Interment of our Late Moſt Gracious QUEEN,)</p>
+            <p>Before the Bayliff and Burgeſſes of the ſaid Corporation of <hi>Daventry,</hi> and other Gentlemen of the County, and publiſhed at their Requeſt.</p>
+            <p>By <hi>Charles Alleſtree,</hi> M. A. Miniſter at <hi>Daventry.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Bernet</hi> at the <hi>Half Moon</hi> in St. <hi>Paul</hi>'s Church-yard, <hi>London,</hi> and <hi>Obediah Smith</hi> Bookſeller in <hi>Da<g ref="char:EOLhyphen"/>ventry.</hi> 1694/5.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:60764:2"/>
+            <pb facs="tcp:60764:2"/>
+            <head>To the Bayliff and Burgeſſes of the Corporation of <hi>DAVENTRY.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g> having teſtified the inward Honour and Eſteem, which you bore to the Virtues of our Late <hi>QUEEN,</hi> by ordering the Desk and Pulpit to be hung in Mourning; and deſiring me to Preach upon the Solemnity of her Funeral: I chearfully obey'd your Requeſt in Preaching, and now in Publiſhing the Diſcourſe. I knew my own inabilities too well, to think that I could be juſt to my Subject, or be able to reach her Chara<g ref="char:EOLhyphen"/>cter; but I know, I have juſtly ſaid ſo much of her Moral and Intellectual Accompliſhments, as muſt make us deſpair of thoſe Attainments; and I have no other deſign in the Publication of this Sermon, but only to propoſe Her, as a
+<pb facs="tcp:60764:3"/>Pattern to the Imitation of all thoſe Good Wo<g ref="char:EOLhyphen"/>men, <hi>that shall hereafter deſire to ex<g ref="char:EOLhyphen"/>cel in Virtue;</hi>
+            </p>
+            <closer>I am,
+<signed>Your Moſt Obliged Friend and Servant. C. ALLESTREE.</signed>
+               <dateline>
+                  <date>March 7th. <hi>1694/5.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:60764:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Numbers 23.10.</hi>
+                  </bibl>
+                  <p>Let me die the Death of the Righteous, and let my laſt End be like his.</p>
+               </q>
+            </epigraph>
+            <p>THis is the Comprehenſive Deſire of all Mankind in the World, both Good and Bad; for though few Men are careful enough of imitating the Lives of the Righteous, yet even the worſt of People, by a natural impulſe, are deſi<g ref="char:EOLhyphen"/>rous of following them in their Deaths. Now this Deſire takes place to the heigth, and occurrs irreſiſtibly to the Mind, when we ſee a departing Soul upon the Wing, juſt ready to take ſeizure of Heaven, and of all the Glories, that are the promis'd Reward of Virtue and Innocence: And to urge us effectually to this pious Ejaculation of praying <hi>to die the Death of the Righteous,</hi> we have the brighteſt Example before us, that ever ſhin'd in our <hi>Engliſh</hi> Sphere (both for the eminency of her Goodneſs, as well as Station) in the Interment of our Glorious QUEEN, and in her happy Tranſlation into another World: We commemo<g ref="char:EOLhyphen"/>rate this Day an inſtance of the moſt exalted Vir<g ref="char:EOLhyphen"/>tue, and the moſt Heroick Piety, that poſſibly either this Age, or any preceding Time was ever
+<pb n="2" facs="tcp:60764:4"/>able to produce; whoſe Death, by the benignity of Heaven, attracted the Deſires of all Men: It was ſuitable to the Integrity of her Life, and cor<g ref="char:EOLhyphen"/>reſpondent to the courſe of her Living here: It was an Effect and Demonſtration of the Holineſs of her Converſation, and will powerfully recom<g ref="char:EOLhyphen"/>mend the practiſe of Righteouſneſs to all Mankind, that ſhall advert to it, from the Patience and Re<g ref="char:EOLhyphen"/>ſignation, that was conſpicuous in our Departed QUEEN, and from the aſſurance ſhe enjoy'd of an everlaſting Reſt in Heaven. She had been initiated early into the Principles of Religion, <hi>and remember'd her Creator in the Days of her Youth;</hi> ſo that when God, in Mercy, thought fit to take Her to himſelf, and to exchange her Corruptible Crown for an Immarceſſible one in Glory. He was pleas'd not to leave himſelf without a Wit<g ref="char:EOLhyphen"/>neſs of his Government, but in the terrible day of Trial to demonſtrate to the World, <hi>that Goodneſs and Virtue are Subſtantial Bleſſings, that they will bring a Man peace at the laſt, that they are able to fortifie the Mind with patience under the ſevereſt preſſures, and by, opening a view of Heaven above, to yield comfort to the moſt languiſhing Soul, under any worldly Calamities or Afflictions.</hi> When therefore an inſtance of ſuch Goodneſs, and ſuch a Glorious Departure is pre<g ref="char:EOLhyphen"/>ſent to our Thoughts, how forcibly muſt Man<g ref="char:EOLhyphen"/>kind
+<pb n="3" facs="tcp:60764:4"/>be excited to wiſh from the very bottom of their Souls <hi>to die the death of the Righteous, and that their laſt end may be like his?</hi>
+            </p>
+            <p>Now in proſecuting this matter, though I ſhall have no neceſſity to piece the Text, either with the foregoing or following Verſes; yet, I find my ſelf conſtrain'd to beg this ſuppoſition, that (as the moſt proper and ſuitable ſeaſon) the Words may be imagin'd to be utter'd upon the view of a Righteous Perſon's going off to Eternity; And then the Motives, that render his Death deſirable, may be reduc'd to theſe three Heads, which I ſhall ſeverally apply, at the end of this Diſcourſe, to our Late QUEEN, and to the ſad Occaſion of this Days Solemnity.</p>
+            <list>
+               <item>I. Firſt, <hi>To the conſideration of the innocency of the Righteous Man's Life, in the whole courſe and tenor of his Actions.</hi>
+               </item>
+               <item>II. Secondly, <hi>To his peaceable Carriage and Deport<g ref="char:EOLhyphen"/>ment in his Sickneſs, or upon his Death-Bed.</hi>
+               </item>
+               <item>III. And laſtly, <hi>To the aſſurance he has of enjoying Heaven hereafter, and ſecuring himſelf of Happineſs to all Eternity.</hi>
+               </item>
+            </list>
+            <p>Now, though all theſe Qualifications are not always the ingredients of a Righteous Man's Life,
+<pb n="4" facs="tcp:60764:5"/>or do neceſſarily denominate or conſtitute him ſuch; but God is pleas'd ſometimes, without any viſible or previous courſe of Piety before, to make uſe of his Prerogative, and pardon a Sinner at the laſt upon Repentance; yet, as this is a Caſe (which very rarely happens) and no Man at that Seaſon can be morally ſecur'd of the Sincerity of his In<g ref="char:EOLhyphen"/>tentions; ſo the Perſon that dies in theſe Circum<g ref="char:EOLhyphen"/>ſtances, wants the Comfort of a Good Reflexion: Whereas the Juſt Man that needs no Repentance, (as the Scripture ſtiles him, <hi>Luke</hi> 15.7.) has the advantage of ſeeing Heaven before him, and his Good Works behind for his Conſolation; he looks upon Heaven through the beſt end of the Perſpe<g ref="char:EOLhyphen"/>ctive, and upon his Good Works, through the Reverſe, but both yield him a delightful Proſpect: Now all theſe Marks of a Righteous Perſon, were eminently united and center'd in the Character of our Late Gracious QUEEN: She was, from her Infancy, from the dawn of Life to the ſetting thereof, a conſtant uniform Pattern of all Virtue and Obedience, the moſt remarkable Creature for Patience under the afflicting Hand of God in her Sickneſs, and (what endued her with this compo<g ref="char:EOLhyphen"/>ſedneſs of Spirit) had a Plerophory, and inward hope, and a certain aſſurance of her Reward in Heaven.</p>
+            <pb n="5" facs="tcp:60764:5"/>
+            <p n="1">I. I begin with the firſt, <hi>That the Conſideration of the innocence of the Righteous Man's Life, is a main Motive and Inducement for us to covet to die his Death.</hi>
+            </p>
+            <p>It is obſervable in the Riſe and Beginnings of Sickneſs, when Diſeaſes make their Approaches, and gradually ſeize upon the Vitals, (if they do not come in ſuch an aſtoniſhing manner, as to ſtupifie the Senſes, and benumb the Faculties of the Soul) there are but two things at that time, which generally the thoughts of Men are conver<g ref="char:EOLhyphen"/>ſant and employ themſelves about, <hi>that is, in refle<g ref="char:EOLhyphen"/>cting either upon their Good or Bad Actions.</hi> For all thoſe indifferent Actions of our Lives (which neither carry any malignity or eſſential Goodneſs in their Nature) are ſo far from being the Sub<g ref="char:EOLhyphen"/>ject of our Contemplation at that time, that there is not the leaſt room left for a Curſory Reflexion upon them: And the reaſon, why the Mind of Man, in all the Operations it can exert, is ſolely limited and apply'd to this Object, is, becauſe it is wholly employ'd with recollecting and prepa<g ref="char:EOLhyphen"/>ring things for the Trial of the Great Day, for the coming of the LORD; And (theſe indiffe<g ref="char:EOLhyphen"/>rent Actions of Life, neither ſerving one way nor the other, neither to juſtifie nor condemn us in the other World) it is unconceivable, and almoſt impoſſible, that any thing (which does not tend
+<pb n="6" facs="tcp:60764:6"/>to one of theſe Ends, either to acquit or condemn us at God's Tribunal) ſhould find any entertain<g ref="char:EOLhyphen"/>ment in our Thoughts.</p>
+            <p>I know ſometimes the neceſſary management of our Domeſtick Affairs, does interpoſe and hinder this intention of Mind, and a Man's Thoughts are frequently call'd back from their application to the things of another World, to a due regard to the ſettlement of the Affairs of this: But it ought to be remember'd, that Mat<g ref="char:EOLhyphen"/>ters of this nature God commanded <hi>Hezekiah</hi> to do, 2 Kings 20.1. <hi>To ſet his Houſe in order.</hi> And it is a Duty which he requires of all Mankind; ſo that if this care is any interruption to us, and hinders us from calling our Moral and Virtuous Actions to remembrance, it is only a little ex<g ref="char:EOLhyphen"/>change of our Office for the better, it only diverts us from meditating upon that which was Good, to faſten and engage us to that Work, which we actually know to be our Duty, and comman<g ref="char:EOLhyphen"/>ded to be done.</p>
+            <p>Now, though it is a great Comfort (even in the midſt of Health, before there are any Diſtur<g ref="char:EOLhyphen"/>bances in Nature) to feed upon the Repaſt of a Good Conſcience, and to enjoy that ſerenity of Mind, which naturally flows from the Remem<g ref="char:EOLhyphen"/>brance of a well-ſpent Life; yet it is a more un<g ref="char:EOLhyphen"/>ſpeakable
+<pb n="7" facs="tcp:60764:6"/>pleaſure to enjoy this Conſcience and Re<g ref="char:EOLhyphen"/>flexion of things at the laſt Hour and Article of Death; becauſe that time being the Concluſion of our Lives, the <hi>Horizon</hi> betwixt Us and Eternity, we are remov'd from the danger of relapſing, and from the Fears of forfeiting the Reward of our Innocence, by any actual Sin, or open Tranſgreſ<g ref="char:EOLhyphen"/>ſion of the Laws of God: Whereas, he, that in the midſt of his Days looks back, and is able to comfort himſelf with the Virtuouſneſs of his For<g ref="char:EOLhyphen"/>mer Life, has (it is true) the ſatisfaction of a Good Reflexion, but not ſo laſting an impreſſion of Joy upon his Spirits, becauſe
+<note n="‖" place="margin">1 <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> him then ſtand having he fall, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Phal. Epiſt. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> he may juſtly be afraid, leſt through the deceitfulneſs of his Heart, and the inſinuation of Sin, he ſhould hereafter, upon ſurpriſe, give way to Temptations, and by one groſs Sin cancel the memory of all his former Virtue: But this is the ſecurity of a Dy<g ref="char:EOLhyphen"/>ing Man (that has ſpent his Life in a conſtant courſe of Piety before) that his Reflection ſhall be as laſting as Eternity, and himſelf out of dan<g ref="char:EOLhyphen"/>ger of committing any thing, that may embitter his Remembrance.</p>
+            <p>It was <hi>Tully</hi>'s Obſervation, that amongſt other things (which recommended the practiſe of Vir<g ref="char:EOLhyphen"/>tue to us) this was none of the leaſt, <hi>That it was acconſtant Comforter to us in all the Diſtreſſes and Ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gencies
+<pb n="8" facs="tcp:60764:7"/>of Humane Life; that nothing could ſolace a Man's Mind, or buoy it up in Affliction, but the Refle<g ref="char:EOLhyphen"/>xion of a Virtuous Life, and the good Actions we have done here.</hi> All other things may give ſome diver<g ref="char:EOLhyphen"/>ſion or pleaſure in the time of doing them, but when they are paſt, they cannot be remember'd with any Complacency, but (what is worſe) they commonly leave a ſting behind them: Nay, he carries the ſuppoſition higher, and though (ſays he) we are long in the contrivance of a Delight, have the pleaſure of ſeeing it at a diſtance, and anticipating it before-hand in our Imagination; nay, when the Delight is at hand, and we are long in the enjoyment of it, yet ſince there muſt be an end, this one Conſideration is enough to embitter it to us. <hi>Quid enim eſt illud ipſum Diu, quod cum venerit, omnis voluptas praeterita pro nihilo est.</hi> And ſurely, if <hi>Cicero,</hi> from the Light of Nature, and mere natural Reaſon was able to decide the Caſe, and determine ſo Divine a Truth, we may give our Aſſent to it, <hi>whom the Light of the Goſpel and the Day-ſpring from on High hath viſited.</hi> All the little, inſignificant Pleaſures, with which we bu<g ref="char:EOLhyphen"/>ſie and entertain our ſenſes here, will be forgotten upon the Death-Bed, and nothing but the Re<g ref="char:EOLhyphen"/>membrance of our Charity and Well-doing, will
+<pb n="9" facs="tcp:60764:7"/>be able to comfort or ſupport us in that Condition and Extremity.</p>
+            <p>Our Hiſtorians relate this ſad and diſconſolate ſaying of Cardinal <hi>Woolſey</hi> (when he was fallen in Diſgrace with his Prince, whom he had ſincerely ſerv'd in moſt of the Great Offices of State) <hi>Had I ſerv'd my God with half that Zeal and Affection, as I have paid my King, He would not have left me in ſuch Diſtreſs.</hi> And we may obſerve, that (in pur<g ref="char:EOLhyphen"/>ſuance of taking of our reliance upon Earthly Creatures) the Scripture puts the Caſe, and ſuppo<g ref="char:EOLhyphen"/>ſes the utmoſt that Men's Pride or Ambition can poſſibly arrive at, and declares, <hi>that the whole World is not a valuable Conſideration, nor a full Compenſation for the loſs of a Soul.</hi> And yet Men frequently ha<g ref="char:EOLhyphen"/>zard this immortal Part for the gain of a ſmall parcel of it, <hi>to extend their Lands, or their Eſtates a little further.</hi> Now let us compare this paſſage of Holy Writ, and this Inſtance together: This Great States-Man (whom I mention'd) was griev'd in Mind, for paying more Obſervance and truer Ser<g ref="char:EOLhyphen"/>vice to his Temporal Prince, than to God; for robbing God of his Honour, and tranſplanting it but a degree lower, <hi>even to his Vicegerent here.</hi> Though he enjoy'd all that the World calls Great, and was advanc'd as high almoſt as a Subject could be pro<g ref="char:EOLhyphen"/>moted; yet his Favour with his Earthly King
+<pb n="10" facs="tcp:60764:8"/>could not recompence the dread of his Heavenly Monarch, nor his Temporal Felicities make amends for his Fears of being depriv'd of Eternal Happineſs: And yet there is a vaſt diſproportion and difference betwixt his Caſe and Ours; for ſo egregious is our Folly, that it is not for the higheſt Preferments and Dignities of State, that we ſacrifice our Eter<g ref="char:EOLhyphen"/>nal Concerns to, but for ſmall, broken, and inter<g ref="char:EOLhyphen"/>rupted Pleaſures: And we may juſtly be afraid, leſt it ſhould be the Complaint of many of us in the laſt Hour, that had we purſued the Works of Righteouſneſs with half that eagerneſs and inten<g ref="char:EOLhyphen"/>tion of Mind, that we follow'd after Vanity, they would not have been ſo unkind, as to have fled the Memory, but would have ſtaid to comfort us at the laſt Gaſp and Article of Death: They would have made us bore our Sickneſs with Pleaſure and Reſignation, have given us patience under our Afflictions, and even ſanctified the Diſeaſe it ſelf; which is the ſecond Conſideration, that makes the Death of the Righteous deſirable.</p>
+            <p n="2">II. Namely, <hi>His peaceable Carriage and Deportment in his Sickneſs, or upon his Death-Bed.</hi>
+            </p>
+            <p>As the Temperament of the Body has a great in<g ref="char:EOLhyphen"/>fluence upon the Operations of the Soul, ſo it hap<g ref="char:EOLhyphen"/>pens, that there is a kind of Sympathetick Motion betwixt them, and when the Soul is in diſorder, the
+<pb n="11" facs="tcp:60764:8"/>Body ſuffers too. All the Paſſions have had their Martyrs; and without any Affection or Pain to the Body, there have been frequent Inſtances of Men, that have been ſacrific'd to the ſudden Tranſports and Eruptions of Joy, as well as overwhelm'd with the oppreſſion of Sorrow: For the Spirits being not able to contain that exceſs of Joy or Grief, which ſometimes ariſes from the Contingencies of this World are ſuffocated and depreſs'd by the Weight, <hi>and the Soul ſeems rather to be extinct than the Body:</hi> Now if the Operations of the Mind (when they are only fix'd upon an Earthly Object, and excited from a diſappointment here) are ſo intenſe and vio<g ref="char:EOLhyphen"/>lent, as to change the Conſtitution, and alter the whole Maſs of Blood, if they do not only help for<g ref="char:EOLhyphen"/>ward a Diſeaſe, but are ſufficient to begin and com<g ref="char:EOLhyphen"/>plete it with ſucceſs; ſurely (when our Grief is rais'd from the Fear of being diſappointed of Heaven) the Operations of the Mind will be more precipitate and ſwift, the Agonies of the Soul will be more acute, Deſpair will then prey upon the Vitals, and encreaſe the Malady.</p>
+            <p>When we have the Scene of all, that is dear to us, render'd for ever miſerable in the moſt exqui<g ref="char:EOLhyphen"/>ſite Torments; when we contemplate the Reſurre<g ref="char:EOLhyphen"/>ction of the Dead (where the Graves are open, and return their Truſt, where all the Particles of Man
+<pb n="12" facs="tcp:60764:9"/>are reunited, and the ſcatter'd Limbs knit together into Shape and Form, and all this to make the Soul and Body, that have been Companions in Sin, to be ſo in Woe and Affliction, and to roul upon Flames to all Eternity) when, I ſay, we have all theſe things in our apprehenſions; we cannot think, that the Soul being entertain'd with ſuch diſmal Objects, will be at leiſure to perform the common Functions or Offices of Life: So that this being the Caſe of all wicked Men upon the proſpect of their leaving the World, it muſt be agreed, that there is generally ſuch a horrour of Mind upon them at the fearful expectation of theſe things, as will ag<g ref="char:EOLhyphen"/>gravate their Diſtemper, and defeat all the methods and application of Phyſick for their Remedy or Recovery: For the Sins, which they have all their Life-time, been Slaves to, will then turn Vaſſals, and be Obſequious in their Attendance; they will then croud the memory, but it will be to no other purpoſe, but only to diſtract it.</p>
+            <p>Now though at all times (and more eſpecially at the Hour of Death) a juſt ſurvey of the Actions of a Man's Life, and a particular Reflexion upon all the Sins, we have been guilty of here, is very neceſſary, as it tends to Abhorrence, to beget Re<g ref="char:EOLhyphen"/>pentance, and procure atonement for them; yet ſo it happens, that where there is no Proviſion made
+<pb n="13" facs="tcp:60764:9"/>againſt them before-hand, and they are not ſatisfied for by piece-meal, they come in a full Body (like Flocks of Creditors upon the miſcarriage of a Debtor) without any appearance of receiving ſatisfaction there, but only to ſet the Sinner's ſhame and ina<g ref="char:EOLhyphen"/>bility of diſcharging all their claims before him. But the righteous Man (who brings all the Actions of the Day <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Hiero<g ref="char:EOLhyphen"/>cles</hi> expreſſes it, who brings all the Actions of the Day <hi>to the Tribunal of Conſcience,</hi> and makes things even betwixt his God and Him, as he cannot have ſuch a multitude of Sins to account for, when he comes on his Death-Bed, ſo when he falls into any Sickneſs, he has no diſtracting Thoughts to afflict him; neither is his Diſtemper aggravated by Impa<g ref="char:EOLhyphen"/>tience, nor increaſed by Choler: He ſubmits to Death, as it is the condition he accepted Life with; as he is the Son of <hi>Adam,</hi> he knows he muſt die, but as he is the Son of the Second <hi>Adam,</hi> he knows he muſt be made alive again: And this conſidera<g ref="char:EOLhyphen"/>tion is the greateſt inducement for us to wiſh to die the Death of the Righteous.</p>
+            <p n="3">III. Namely, <hi>The Certainty he has of a joyful Reſur<g ref="char:EOLhyphen"/>rection, and the full aſſurance of enjoying Heaven, and ſe<g ref="char:EOLhyphen"/>curing himſelf of Happineſs to all Eternity.</hi>
+            </p>
+            <p>This is the Joy and Hope, the Crown and Or<g ref="char:EOLhyphen"/>nament of a Chriſtian; and the Righteous Man,
+<pb n="14" facs="tcp:60764:10"/>that has this Hope, is prepared and fortified againſt all Events; He is inwardly aſſured that Heaven is his Portion and his Lot, and deſign'd for his In<g ref="char:EOLhyphen"/>heritance from the Foundation of the World; For as it is ſaid, that ſeldom any Man dies, but he has ſome intimations of his approaching End within, ſome ſecret Preſages and Bodings of his final Diſſo<g ref="char:EOLhyphen"/>lution in his Mind; ſo certainly there is no Perſon upon the Confines of Death, but either from his own management of himſelf in this World, he can make a Judgment of his Future State, or elſe from ſome Inſpiration and Revelation within, he can take a certain meaſure of it: The Holy Ghoſt will not be wanting (in gentle Breathings and Whiſpers to the Conſcience) to ſupport the Juſt Man under all the preſſures of Sickneſs, (as he did our Glorious QUEEN) and to fortifie his well-grounded Ex<g ref="char:EOLhyphen"/>pectation of Heaven: That Spirit will diligently wait and attend to ſtrengthen the Righteous Man's Hopes of a Reſurrection to Glory; there will in him be a Calm, and certainly, and an aſſurance of Heaven, a Glory will incircle his Temples here, and the Rays of Divinity will be ſhining round his Head.</p>
+            <p>But the Righteous Man's Death (though every one covets it) is not attainable barely by a lazie wiſh, or an empty Deſire; there muſt be ſomething of
+<pb n="15" facs="tcp:60764:10"/>action on our parts, to go along with it, and our vigorous endeavours muſt be uſed, as a neceſſary ingredient to attain it.</p>
+            <p>This the Saint of this Day knew and practis'd, whoſe conſtant care it was <hi>to work out Her Salvation with Fear and Trembling;</hi> who paſt through all the Mortification and Diſcipline, and ſeverity of Reli<g ref="char:EOLhyphen"/>gion, and by thoſe Auſterities which She inflicted upon her Body, made her Soul more ſuſceptible of good Impreſſions, and ſenſible of the Charms of Goodneſs, and by theſe Holy Exerciſes, at laſt She arriv'd to the higheſt Perfection of Virtue, that her Nature was capable of; for the Eminency of her Piety was ſuch, as was ſufficient to entail a Happineſs to a Nation, and leave a Bleſſing behind her; and not all the Libellous Tongues (united in one common Maſs of Poyſon) ever had the Impu<g ref="char:EOLhyphen"/>dence to attack her Virtue, or blemiſh her Inno<g ref="char:EOLhyphen"/>cence: They had no Fault to object againſt her Conduct, but only this, that She durſt be ſo gene<g ref="char:EOLhyphen"/>rous, with her Royal Partner, to undertake the Protection of a Sinking Nation, and to vindicate our common Rights, Religion, and Liberties, which were all Invaded, and juſt ready to be ſwal<g ref="char:EOLhyphen"/>low'd up in Tyranny; for which Act her Name will be for ever bleſſed amongſt all Generations of Men, and After-Ages will celebrate her
+<pb n="16" facs="tcp:60764:11"/>Praiſes to the utmoſt Period and Extent of Time.</p>
+            <p>Let her Example therefore excite us to a Holy Imitation of her Virtues, and let us conſider with her the Greatneſs of our Nature, the end of our Creation, and what we were made for; all Vice is below the Dignity of Man; it is Virtue (or, in another word, Righteouſneſs, which is the ſame thing, <hi>only Virtue</hi> improv'd and ſublimated by Grace) that is the proper and commenſurate Object of our Thoughts. If we ſtedfaſtly purſue this, <hi>and hunger and thirst after Righteouſneſs,</hi> we ſhall all be ſo happy, as to die the Death of the Righteous, that is, to die like Her. We ſhall have her aſſurance, her ſedate and compoſed Temper in our Sickneſs; ſo that if we are conſign'd to another World, we ſhall expect our Change with Joy, and never be diſmay'd at the Approaches of Death; or if any paleneſs, any horror of Countenance does ariſe, the Alteration will proceed from the Decay of Spirits, or the want of Vital Heat, and not from any conſternation or deſpondency within.</p>
+            <p>Thus have I enforc'd the Motives, in a ſpecu<g ref="char:EOLhyphen"/>lative manner, that render the Death of the Righ<g ref="char:EOLhyphen"/>teous deſirable to all Men. I am ſenſible that theſe Diſcourſes in Theory make but a faint im<g ref="char:EOLhyphen"/>preſſion
+<pb n="17" facs="tcp:60764:11"/>upon the Mind, and that a Bright Ex<g ref="char:EOLhyphen"/>ample would illuſtrate and ſet it off better: I ſhall therefore make the Application, in deſcan<g ref="char:EOLhyphen"/>ting upon the Holineſs of the Life and Actions, and Happineſs of the Death of this moſt Reli<g ref="char:EOLhyphen"/>gious Princeſs, whoſe Obſequies we celebrate now.</p>
+            <p>And in this attempt, I ſhall not fear any miſcon<g ref="char:EOLhyphen"/>ſtructions of Flattery: The Subject is above it, and uncapable of being perverted to that Abuſe; the moſt maſterly ſtrokes of Art cannot reach the heigth of thoſe Eulogies, that juſtly appertain to ſo much Goodneſs and Perfection; much leſs ſhall I be able to celebrate her Great Worth in a becoming manner, who knew Her (as we ought to approach Majeſty) only at an awful Diſtance, and with an humble Reverence. This therefore is a great diſadvantage I labour under, but it is not ſufficient to diſcourage me from caſting in my Mite into the Treaſury of all thoſe, that have already ſet forth the Eminency of her Virtues, and parentated to her Memory; for, I conſider, that it will be an extraordinary Service done to Piety and Religion, when the Friend to Learning, the Patroneſs of Religion, the Advocate of Virtue, and the Pattern of Humility ſhall be recommended to our Imitation; for whole Volumes of Sermons would not be ſo uſeful to promote the Ends of Reli<g ref="char:EOLhyphen"/>gion,
+<pb n="18" facs="tcp:60764:12"/>and advance the Reputation of Virtue in the World, as an Example of it drawn to the Life; eſpecially, if it be ſo Great, ſo Illuſtrious, ſo Ho<g ref="char:EOLhyphen"/>nourable, and ſo Majeſtick a One, as this Incom<g ref="char:EOLhyphen"/>parable Princeſs was.</p>
+            <p>She had the Happineſs of being educated early, under the Care and Precepts of the beſt Inſtructors in Religion; and her large and capacious Soul improv'd thoſe advantages, to that degree and pro<g ref="char:EOLhyphen"/>ficiency both in Knowledge and Piety, that She outſtript her Age, and in the Prophet's Phraſe (Iſai. 65.20.) <hi>The Child was an Hundred Years Old.</hi> She had then ſo little of the Vanity, or the Pride, or the Indiſcretions, that are uſually incident to that time of Life, and her High Birth, that She became an Example of Modeſty and Humility to her Sex in her Youth, and gave a ſure and certain Omen of that Heigth and Progreſs in Goodneſs, which afterwards She arrived to; and by this means of ſetting out early in a right Courſe, She acquired Habits of Virtue betimes, and enobled her Mind with the brighteſt Images and Idea's of Truth; for having devoted her Innocent Soul to the Service of God, and to the Power of Religion, and continually begging the aſſiſtance of the Holy Spirit: She was by his Grace preſerv'd ſafely in the
+<pb n="19" facs="tcp:60764:12"/>right way, and never deviated from the Paths of Righteouſneſs.</p>
+            <p>And as an inſtance, that She labour'd after the Power of Godlineſs, and not the form of it, She led (even in the midſt of thoſe Temptations, that ſurround Greatneſs, and attend a Court) a moſt Pure and Innocent, a moſt Holy and even an An<g ref="char:EOLhyphen"/>gelical Life. Her Great Endeavour was to know God, and to be aſſimulated and made like him in the inward Qualities and Depoſitions of her Soul: And this World and the Glories of it, could not gain the Aſcendant over her Thoughts, or make her over-look things that are Eternal: The Crown, She bore, was vile and deſpicable in her Eyes, in reſpect of that Incorruptible One, which She ex<g ref="char:EOLhyphen"/>pected and was ſure of in Glory; She knew that an humble Spirit, a ſincere Devotion, and an ha<g ref="char:EOLhyphen"/>bitual Goodneſs were greater Accompliſhments, and more comely Ornaments to her Sex, than any outward Acquiſition whatever; and conſequently her Devout Soul aſpired after the attainment of theſe Excellencies, which She was bleſs'd with, and poſſeſs'd to that degree, that in her Primitive Chriſtianity was reviv'd afreſh, and She liv'd as thoſe firſt and beſt of Chriſtians did, and as we ought to do.</p>
+            <pb n="20" facs="tcp:60764:13"/>
+            <p>This was evident, as by many other Inſtances to, particularly by the frequency of her private Devotions, and conſtant Attendance in the Houſe of God at Publick Prayers, which ſhe never omit<g ref="char:EOLhyphen"/>ted, but like holy <hi>Anna, ſerved God with Faſtings and Prayers Night and Day.</hi> And to this devout Temper of Mind, ſhe always added a Munificence of Nature, and a Largeneſs of Heart to diſtri<g ref="char:EOLhyphen"/>bute Alms to the Poor, and her Liberality in this kind was ſo great, that poſſibly the Annual Incomb of the Richeſt Subject cannot come up to the heigth of her Charity and Diſtributions.</p>
+            <p>But though ſhe delighted inwardly in theſe Religious Duties of Prayers and Alms, yet it is not to be omitted, that ſhe reckon'd the principal part of all her Joys to conſiſt in receiving the Ho<g ref="char:EOLhyphen"/>ly Sacrament; and accordingly ſhe Communica<g ref="char:EOLhyphen"/>ted once every Month (beſides Collar-Days, and other great Solemnities) and her Pious Soul found moſt raviſhing refreſhments in the Spiritual Feaſt of the moſt precious Body and Blood of her Sa<g ref="char:EOLhyphen"/>viour: Neither did ſhe ſuperficially or ſlightly examine her ſelf for her Preparation, but ſhe ex<g ref="char:EOLhyphen"/>erciſed ſuch a ſtrict Devotion, and ſuch a Reli<g ref="char:EOLhyphen"/>gious Auſterity, as if ſhe was to paſs from the Table of her Lord to his Tribunal; neither did ſhe contract any moroſeneſs or fourneſs of Tem<g ref="char:EOLhyphen"/>per,
+<pb n="21" facs="tcp:60764:13"/>by thus exerciſing her ſelf with Religious Acts, and retiring into her own Boſom; She knew that Chearfulneſs and Religion are conſiſtent, and that a good Chriſtian has always the joyfulleſt Heart; and accordingly ſhe was always chearful, but under the Government of Reaſon, and none of all her Attendants ever ſaw her diſcompoſed, or out of Humour. Many Occaſions ſhe met with from the Angry Men of this Generation, and from the Libellous Pens of Mercenary Scriblers, that put to trial her Patience and Contentment; but in her they were not able to produce any ſenſible altera<g ref="char:EOLhyphen"/>tion, ſhe ſtill preſerv'd the Conſtancy and Great<g ref="char:EOLhyphen"/>neſs of her Mind under all Provocations, neither was ſhe inſenſible of Affronts, but ſhe was content and could forgive them.</p>
+            <p>In a word, ſo much of a Piece was ſhe to her ſelf in the Practice of all Chriſtian Virtue, and in all the great Lines of her Duty, that ſhe gave a Grace and Luſter to every Relation wherein ſhe ſtood: A Friend ſhe was to the exceſs of Bounty and Liberality, and her Retributions bore propor<g ref="char:EOLhyphen"/>tion to the Dignity of her Station, rather than to the Exigencies of the Perſons, upon whom they were conferr'd; like <hi>Alexander</hi> ſhe conſider'd what was fit for a Princeſs to give in kindneſs, more than what was decent for a Subject to expect and re<g ref="char:EOLhyphen"/>ceive:
+<pb n="22" facs="tcp:60764:14"/>And (what may ſeem a Paradox to ſome Peoples Ears) She was a moſt Dutiful Daughter to the higheſt Degree and Example of Obedience, and never gave a juſt cauſe of Offence to her Father; For if People will be deſcanting upon the exploded Topick of filling the Vacant Throne, and make this an exception, let them conſider (in anſwer to their Objections) the neceſſity of the thing, and the call of God for it; and withal the Obligations She had of paying Obedience to her Husband in the firſt place, ſooner than to her Father: But to go on, and conſider her in the Relation She ſtood to her Royal Conſort; a Wife, She was preciſely ob<g ref="char:EOLhyphen"/>ſervant to oblige and hit the humour of her Royal Husband, from the ſmalleſt to the greateſt things, and never was a pair more ſutably matcht, that more carefully ſought their mutual ſatisfaction, or made more equal Returns of Love and Affection: Provident and Careful She was in the management of all his Great Concernments, and this appear'd in her Wiſe Adminiſtration of the Government, when the neceſſity of our Affairs, and the Peace of <hi>Europe</hi> requir'd the Annual Abſence of the King to Head the Confederacy, and to put Life and Soul, and Vigour into the Hearts of our Allies. In ſhort, She was ſuch a Wife, in whom <hi>the Heart of her Husband did ſafely trust.</hi>
+            </p>
+            <pb n="23" facs="tcp:60764:14"/>
+            <p>But Death has now diſſolv'd the Union of this Royal Pair; for ſo it pleas'd God to order it, that whilſt this Excellent Lady was preparing her ſelf for the Holy Communion upon <hi>Chriſtmas-Day,</hi> She was ſeiz'd with that Diſeaſe, which She was ſenſi<g ref="char:EOLhyphen"/>ble would prove Mortal to her: She then diſmiſt all worldly Laws and Thoughts, and every thing that might be the leaſt hindrance to her in her Pre<g ref="char:EOLhyphen"/>paration for another World; She then arraign'd and judg'd all the Actions of her Life, with the ſtricteſt Scrutiny, and could find nothing to affect her Mind with Grief, but only this, <hi>that She was fearful She had ſet her Heart too much upon the King:</hi> So ſcrupulous was She, leſt a juſt natural Affection ſhould become immoderate and prove criminal, and her Love to God ſuffer any diminution by her Fond<g ref="char:EOLhyphen"/>neſs to the King: Happy Saint! that upon her Death-Bed, had no other matter to condemn her ſelf for; who would not purchaſe ſuch a Peace, at the higheſt Price whatever? Her Hopes of Heaven were ſo raviſhing and delightful, that the Tempta<g ref="char:EOLhyphen"/>tions of the World could not allure, nor Death frighten her; <hi>For being Righteous She had Hope in Death.</hi> Prov. 14.32.</p>
+            <p>Thus Liv'd, and thus Dy'd this Incomparable Princeſs (as ever Adorn'd the Throne of <hi>England</hi>) in a Calm of Conſcience, in ſtedfaſt Faith, in
+<pb n="24" facs="tcp:60764:15"/>Peace with God, in Communion with his Church, and in perfect Charity with all the World: And though we juſtly mourn and lament a National Loſs in her Death, yet let it not be without this Conſolation, <hi>that She certainly died the Death of the Righteous, and her laſt End was like His.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:60764:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
